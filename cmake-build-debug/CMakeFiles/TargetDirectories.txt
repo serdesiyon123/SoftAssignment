@@ -1,0 +1,3 @@
+C:/Users/tsega/CLionProjects/SoftAssignment/cmake-build-debug/CMakeFiles/SoftAssignment.dir
+C:/Users/tsega/CLionProjects/SoftAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tsega/CLionProjects/SoftAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
